@@ -1,0 +1,38 @@
+p {
+    background-color: #3bd8d8;
+}
+#p2 {
+    background-color: bisque;
+    font-weight: bold;
+}
+
+p {
+    background-color: #c800ff;
+}
+
+#p2 {
+    font-style: italic;
+}
+
+h2 {
+    background-color: orange;
+}
+
+.box1 {
+    border: 3px solid black;
+}
+.box2 {
+    border: 8px solid olive;
+}
+
+.big {
+    font: 40px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.small {
+    font: 10px "Lucida Grande", Helvetica, Arial, sans-serif ;
+}
+
+* {
+    text-align: center;
+}
