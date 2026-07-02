@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+body {
+    margin: 0;
+}
+
+.header {
+    height: 400px;
+    background-image: url("../img/coffee-bgnd.jpeg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header h1 {
+    margin: 0;
+    text-align: center;
+    font-family: "Covered By Your Grace", cursive;
+    font-size: 70px;
+    color: #6fa57d;
+
+}
+
+h1 {
+    font-size: 100px;
+    font-family: "Covered By Your Grace", cursive;
+    color: rgba(3, 155, 100, 0.75);
+    text-align: center;
+}
+
+
+
+
+/*
+HW_06_TXT:
+1) нарисовать перекрывающиейся олимпийские кольца как на эмблеме
+2) шахматная доска - ч/б - без полей
+3) оформить CSS для табличной верстки - где в каждой строке 2 страны.
+  - центрования заголовка на фоне чашки и тд
+  - шрифт для кажлого типа надписи
+  - красивый фон для каждой страны
+
+ */
+
+
+/*@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');*/
+
+
+/*body {*/
+/*    margin: 0;*/
+/*    font-family: 'Raleway', sans-serif;*/
+/*    background-color: whitesmoke;*/
+/*    !*color: red !important;*!*/
+/*}*/
+
+/*img {*/
+/*    width: 100%;*/
+/*    height: 800px;*/
+/*    object-fit: cover;*/
+/*    object-position: top;*/
+/*}*/
+
+/*h1 {*/
+/*    text-align: center;*/
+/*    font-size: 50px;*/
+/*    font-stretch: normal;*/
+/*    margin-top: 100px;*/
+/*    margin-bottom: 50px;*/
+/*}*/
+/*h2 {*/
+/*    font-size: 30px;*/
+/*}*/
+
+/*p {*/
+/*    margin-bottom: 30px;*/
+/*}*/
+
+/** {*/
+/*    color: #391906;*/
+/*}*/
+/*a {*/
+/*    color: #391906;*/
+/*    margin-bottom: 70px;*/
+/*}*/
