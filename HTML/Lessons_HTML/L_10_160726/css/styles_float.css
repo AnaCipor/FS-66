@@ -5,3 +5,70 @@
 body {
     background: #c39191;
 }
+
+div {
+    border-radius: 10px;
+    margin-bottom: 0px;
+}
+
+.header, .footer {
+    height: 50px;
+}
+.header {
+    background-color: #339a9a;
+}
+
+.footer {
+    background-color: #df15bf;
+    /*clear: both;*/
+    clear: right;
+    /*clear: left;*/
+}
+
+
+
+.left1 {
+    height: 300px;
+    width: 150px;
+    background-color: darkseagreen;
+    float: left;
+    margin-right: 20px;
+}
+
+.right1 {
+    height: 300px;
+    width: 650px;
+    background-color: orange;
+    float: right;
+    margin-left: 20px;
+}
+
+.left2 {
+    height: 100px;
+    width: 150px;
+    background-color: violet;
+    float: left;
+    margin-right: 20px;
+
+}
+.right2 {
+    height: 100px;
+    width: 340px;
+    background-color: #550555;
+    float: right;
+    margin-left: 20px;
+
+}
+
+.right3 {
+    height: 300px;
+    width: 740px;
+    background-color: aqua;
+    float: right;
+    margin-left: 20px;
+
+}
+
+h2 {
+    padding: 50px;
+}
