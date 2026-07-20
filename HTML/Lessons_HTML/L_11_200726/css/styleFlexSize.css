@@ -1,0 +1,40 @@
+.container {
+    width: 600px;
+    display: flex;
+    height: 450px;
+    background: pink;
+    margin: 0 auto;
+}
+
+/*
+Приоритеты: width. -> flex-basis. (row) -> max-width.
+Приоритеты: width. -> flex-basis. (column) -> max-width.
+*/
+
+
+.item {
+    height: 150px;
+    width: 150px;
+    /*flex-basis: 170px;*/
+    max-width: 160px;
+    font-size: 3em;
+    text-align: center;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+
+.red {
+    background-color: red;
+    /*flex-grow: 1;*/
+}
+.green {
+    background-color: green;
+    /*flex-grow: 2;*/
+    flex-basis: 200px;
+
+}
+.blue {
+    background-color: blue;
+    /*flex-grow: 3;*/
+}
